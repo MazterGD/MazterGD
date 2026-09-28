@@ -1,16 +1,23 @@
-## Hi there 👋
+## GitHub Stats
 
-<!--
-**MazterGD/MazterGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=MazterGD&show_icons=true&theme=github_dark&hide_border=true" alt="MazterGD GitHub stats" />
+</p>
 
-Here are some ideas to get you started:
+## Used Languages (Percentage)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MazterGD&theme=github_dark" alt="Language usage percentages across repositories" />
+</p>
+
+## Contribution Streak
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=MazterGD&theme=github-dark&hide_border=true" alt="MazterGD contribution streak" />
+</p>
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,nodejs,git,github,vscode" alt="Tech stack" />
+</p>
